@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="27.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlaneGame.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAtom" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAIAAAAAAAAkAAAAAAAAAAQBAAAAgAAQAAIAAAAAA=</HashCode>
+      <FileName>Atom.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBall" Collapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAIAAAABACAgAAAAAAAAAAAAAAAAAAAQAAAAAAEAA=</HashCode>
+      <FileName>Ball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBallboss" Collapsed="true">
+    <Position X="3.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAIAAAAAAIAgAAAAAAAAAAAhAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Ballboss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBomb" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIQAAAAAAAgAAAAEAAAAAIAAAAAAQAQABARAABAA=</HashCode>
+      <FileName>Bomb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBossball" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEEAIAAAEAAAAgAAAAAAAAAAAgAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Bossball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemy" Collapsed="true">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAIAAAAAAAAgAAAAAACAAAQBAAAAgACQAAAABABAA=</HashCode>
+      <FileName>Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemyboss" Collapsed="true">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAIAEAAAAAAgAAgAAAAAAAQAQAAAkAAQBAABBABAA=</HashCode>
+      <FileName>Enemyboss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemyboss1" Collapsed="true">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAIAAAAAAAAgAAoAAAAAgAAAAAgAqAAQAAAABAAAA=</HashCode>
+      <FileName>Enemyboss1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CExplosion" Collapsed="true">
+    <Position X="6.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAIAAAABAAAgAAAAAAAAAAAAAAAAAAAQAQBAAAAAA=</HashCode>
+      <FileName>Explosion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGameObject" Collapsed="true">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAgAAAAAAAAAAAAIAAAAAAQAAgAAAAEA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CHp" Collapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAIAAAAAAAAgAAgAAAAAAAQAAAAAgAAQAAAEAAgAA=</HashCode>
+      <FileName>Hp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame" Collapsed="true">
+    <Position X="29.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAACAAAiAAAgCAAAgAAAAAAAAAAABA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyPlane" Collapsed="true">
+    <Position X="10.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAIAAAAAAAAiAKAAAAAAAACABAAgACAQAAAKhABAA=</HashCode>
+      <FileName>MyPlane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNewbomb" Collapsed="true">
+    <Position X="10.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAIAAAAAAAAgAAAAAAAIAASAAAAAgAAQAAAAAAACA=</HashCode>
+      <FileName>Newbomb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlaneGameApp" Collapsed="true">
+    <Position X="31.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAQAAAABAAAAAAA=</HashCode>
+      <FileName>PlaneGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlaneGameDoc" Collapsed="true">
+    <Position X="27.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAACAAAgAAAACAgAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>PlaneGameDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlaneGameView" Collapsed="true">
+    <Position X="29.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAIAABEABAIggCGIRA0ARAgAIAQQAABAgIAQEBYQI=</HashCode>
+      <FileName>PlaneGameView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSetlvl" Collapsed="true">
+    <Position X="31.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAABAAAAEAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Setlvl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
